@@ -1,0 +1,43 @@
+.logo-tamano{
+    width: 20%;
+}
+  .header .navbar {
+    background-color: transparent !important;
+  }
+
+  .header {
+    /* background: url(../img/carousel1.jpg) no-repeat center; */
+    background-size: cover;
+    min-height: 100vh;
+  }
+
+  .carrusel1 {
+    background: url(../img/carousel1.jpg) no-repeat center;
+    background-size: cover;
+    /* min-height: 100vh; */
+  }
+
+  .carrusel2 {
+    background: url(../img/carousel2.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+  }
+
+  .carrusel3 {
+    background: url(../img/carousel3.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+  }
+#seccion1{
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    display: inline-block;
+
+
+}
+
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
