@@ -1,8 +1,12 @@
+.color-fondo{
+    background-color: black;
+}
+
 .logo-tamano{
     width: 20%;
 }
   .header .navbar {
-    background-color: transparent !important;
+    background-color: transparent;
 }
 
 .roboto-thin {
