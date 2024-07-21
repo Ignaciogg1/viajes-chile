@@ -23,3 +23,7 @@
     align-items: center;
     justify-content: center;
 }
+
+.cambio li:hover{
+    border-color:#c78c19;
+}
